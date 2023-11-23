@@ -16,7 +16,7 @@
 
 // Servo adjustment - Set _DUTY_MAX, _NEU, _MIN with your own numbers
 #define _DUTY_MAX 1500 // 2000
-#define _DUTY_NEU 990 // 1500
+#define _DUTY_NEU 995 // 1500
 #define _DUTY_MIN 500 // 1000
 
 #define _SERVO_ANGLE_DIFF  123  // Replace with |D - E| degree
